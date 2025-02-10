@@ -16,14 +16,15 @@ A **Tesla website clone** built using **React.js** and **Styled Components**. Th
 - **React Reveal / Framer Motion** (For animations)
 
 ## 🚀 Live Demo
-🔗 **[Live Project](#)** _(Add your hosted link here)_
+🔗 **[Live Project](https://tesla-clone-rijm.onrender.com)**
+
 
 ## 🖥️ Setup Instructions
 Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/tesla-clone.git
+git clone https://github.com/Jeshan26/tesla-clone.git
 cd tesla-clone
 ```
 
@@ -44,19 +45,6 @@ npm run build
 ```
 This creates an optimized production-ready build in the `/build` folder.
 
-## 📂 Project Structure
-```
-Tesla-Clone/
-│── src/
-│   ├── components/    # Reusable UI components
-│   ├── assets/        # Images, logos
-│   ├── pages/         # Page components
-│   ├── App.js         # Main component
-│   ├── index.js       # Entry point
-│── public/
-│── package.json
-│── README.md
-```
 
 ## 📷 Screenshots
 ![Tesla Clone Homepage](public/images/tesla-clone_screnshot.png)
